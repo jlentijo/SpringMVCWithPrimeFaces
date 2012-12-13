@@ -6,7 +6,7 @@
 	<artifactId>SpringMVCWithPrimeFaces</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringMVCWithPrimeFaces Maven Webapp</name>
+	<name>SpringMVCWithPrimeFaces</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
